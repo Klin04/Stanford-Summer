@@ -1,0 +1,45 @@
+Welcome to the CS 106B Maze Solver!
+Do you want animation? (Y/N) n
+Maze file name (blank for maze1.txt)? maze3.txt
+Reading maze ...
+   0123456
+ 0 XXXXXXX
+ 1 X     X
+ 2 XXXXX X
+ 3 X     X
+ 4 X XXXXX
+ 5 X     X
+ 6 XXXXX X
+ 7 X     X
+ 8 XXXXXXX
+
+Start row? 5
+Start col? 4
+   0123456
+ 0 XXXXXXX
+ 1 X     X
+ 2 XXXXX X
+ 3 X     X
+ 4 X XXXXX
+ 5 X     X
+ 6 XXXXX X
+ 7 X     X
+ 8 XXXXXXX
+No path was found. :-(
+Try again? (Y/N) y
+
+Start row? 1
+Start col? 2
+   0123456
+ 0 XXXXXXX
+ 1 X     X
+ 2 XXXXX X
+ 3 X     X
+ 4 X XXXXX
+ 5 X     X
+ 6 XXXXX X
+ 7 X     X
+ 8 XXXXXXX
+No path was found. :-(
+Try again? (Y/N) n
+Have a nice day.

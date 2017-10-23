@@ -1,0 +1,36 @@
+Welcome to CS 106B Boggle Mini!
+This game is a search for words
+on a 2-D board of letter cubes.
+See how many words you can find,
+and then I will reveal them all.
+
+Type the 16 letters to appear on the board: FYCLIOMGORILHJHU
+F Y C L
+I O M G
+O R I L
+H J H U
+
+Human player's turn:
+Type a word (or Enter to stop): foil
+You found a new word! "foil"
+Type a word (or Enter to stop): FORM
+You found a new word! "FORM"
+Type a word (or Enter to stop): huh
+Invalid word or not found on the board.
+Type a word (or Enter to stop): what
+Invalid word or not found on the board.
+Type a word (or Enter to stop): room
+You found a new word! "room"
+Type a word (or Enter to stop): roomy
+You found a new word! "roomy"
+Type a word (or Enter to stop): 
+You found 4 total words.
+
+Computer player's turn:
+There were 21 total words:
+COIF          COIL          COIR          CORM          FIRM          
+FOIL          FORM          GIRO          GLIM          HOOF          
+IGLU          LIMO          LIMY          MIRI          MOIL          
+MOOR          RIMY          ROIL          ROOF          ROOM          
+ROOMY    
+Have a nice day!

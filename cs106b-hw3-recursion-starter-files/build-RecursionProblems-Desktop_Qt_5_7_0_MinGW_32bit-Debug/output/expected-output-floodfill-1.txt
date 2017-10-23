@@ -1,0 +1,38 @@
+CS 106B Recursion Problems
+
+Choose a problem:
+1) Karel Goes Home
+2) Convert String to Integer
+3) Balancing Parentheses
+4) Human Pyramid
+5) Sierpinski Triangle
+6) Flood Fill
+7) Grammar Solver
+Enter your choice (or 0 to quit): 6
+
+Flood fill (x=68, y=358), color ff0000cc: 2650 pixels colored.
+Flood fill (x=138, y=45), color ff0000cc: 1002 pixels colored.
+Flood fill (x=412, y=348), color ff0000cc: 8980 pixels colored.
+Flood fill (x=458, y=303), color ff8c1515: 15316 pixels colored.
+Flood fill (x=87, y=79), color ff8c1515: 4133 pixels colored.
+Flood fill (x=83, y=213), color ff8c1515: 828 pixels colored.
+Flood fill (x=116, y=84), color ffff8800: 9056 pixels colored.
+Flood fill (x=424, y=293), color ffff8800: 15348 pixels colored.
+Flood fill (x=21, y=108), color ffff8800: 1781 pixels colored.
+Flood fill (x=199, y=390), color ffeeee00: 38884 pixels colored.
+
+Going to test flood fill exception handling.
+Fill (-1, -2) threw an exception!
+Fill (3210, 4567) threw an exception!
+
+Choose a problem:
+1) Karel Goes Home
+2) Convert String to Integer
+3) Balancing Parentheses
+4) Human Pyramid
+5) Sierpinski Triangle
+6) Flood Fill
+7) Grammar Solver
+Enter your choice (or 0 to quit): 0
+
+Exiting.

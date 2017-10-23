@@ -1,0 +1,60 @@
+Welcome to the CS 106B Maze Solver!
+Do you want animation? (Y/N) n
+Maze file name (blank for maze1.txt)? maze4.txt
+Reading maze ...
+   0123456789012345678
+ 0 XXXXXXXXXXXXXXXXXXX
+ 1 X   X   X         X
+ 2 X XXX X X X X XXX X
+ 3 X X   X X X X     X
+ 4 X XXXXX XXX X XXXXX
+ 5 X     X     XXX   X
+ 6 X XXXXX XXXXX X X X
+ 7 X     X         X  
+ 8 XXXXXXXXXXXXXXXXXXX
+
+Start row? 7
+Start col? 5
+   0123456789012345678
+ 0 XXXXXXXXXXXXXXXXXXX
+ 1 X   X   X         X
+ 2 X XXX X X X X XXX X
+ 3 X X   X X X X     X
+ 4 X XXXXX XXX X XXXXX
+ 5 X     X     XXX   X
+ 6 X XXXXX XXXXX X X X
+ 7 X     X         X  
+ 8 XXXXXXXXXXXXXXXXXXX
+No path was found. :-(
+Try again? (Y/N) y
+
+Start row? 3
+Start col? 5
+   0123456789012345678
+ 0 XXXXXXXXXXXXXXXXXXX
+ 1 X   X...X         X
+ 2 X XXX.X.X X X XXX X
+ 3 X X  .X.X X X     X
+ 4 X XXXXX.XXX X XXXXX
+ 5 X     X.    XXX...X
+ 6 X XXXXX.XXXXX X.X.X
+ 7 X     X.........X..
+ 8 XXXXXXXXXXXXXXXXXXX
+You escaped!
+Try again? (Y/N) y
+
+Start row? 1
+Start col? 9
+   0123456789012345678
+ 0 XXXXXXXXXXXXXXXXXXX
+ 1 X   X   X...      X
+ 2 X XXX X X X.X XXX X
+ 3 X X   X X X.X     X
+ 4 X XXXXX XXX.X XXXXX
+ 5 X     X.....XXX...X
+ 6 X XXXXX.XXXXX X.X.X
+ 7 X     X.........X..
+ 8 XXXXXXXXXXXXXXXXXXX
+You escaped!
+Try again? (Y/N) n
+Have a nice day.

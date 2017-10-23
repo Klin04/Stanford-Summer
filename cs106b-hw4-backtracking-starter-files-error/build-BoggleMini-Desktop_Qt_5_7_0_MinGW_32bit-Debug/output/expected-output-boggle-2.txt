@@ -1,0 +1,33 @@
+Welcome to CS 106B Boggle Mini!
+This game is a search for words
+on a 2-D board of letter cubes.
+See how many words you can find,
+and then I will reveal them all.
+
+Type the 16 letters to appear on the board: ABCDEFGHIJKLMNOP
+A B C D
+E F G H
+I J K L
+M N O P
+
+Human player's turn:
+Type a word (or Enter to stop): foo
+Invalid word or not found on the board.
+Type a word (or Enter to stop): fink
+You found a new word! "fink"
+Type a word (or Enter to stop): glop
+You found a new word! "glop"
+Type a word (or Enter to stop): girl
+Invalid word or not found on the board.
+Type a word (or Enter to stop): mink
+You found a new word! "mink"
+Type a word (or Enter to stop): knife
+You found a new word! "knife"
+Type a word (or Enter to stop): 
+You found 4 total words.
+
+Computer player's turn:
+There were 8 total words:
+FINK          FINO          GLOP          JINK          KNIFE         
+KNOP          MINK          PLONK         
+Have a nice day!

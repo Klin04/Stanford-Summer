@@ -1,0 +1,12 @@
+7
+40
+---XXXX---XXXX---X---XXXX---XXXX---XXXXX
+---X------X------X---X--X---X------X---X
+---X------X------X---X--X---X------X---X
+---X------XXXX---X---X--X---XXXX---XXXXX
+---X---------X---X---X--X---X--X---X---X
+---X---------X---X---X--X---X--X---X---X
+---XXXX---XXXX---X---XXXX---XXXX---XXXXX
+
+#This is made by Kaijun Lin.
+#used as an initial condition of the game.

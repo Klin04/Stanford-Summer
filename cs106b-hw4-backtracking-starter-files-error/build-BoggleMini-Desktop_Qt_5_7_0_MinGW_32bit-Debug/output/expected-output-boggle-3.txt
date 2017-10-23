@@ -1,0 +1,60 @@
+Welcome to CS 106B Boggle Mini!
+This game is a search for words
+on a 2-D board of letter cubes.
+See how many words you can find,
+and then I will reveal them all.
+
+Type the 16 letters to appear on the board: ABDDRCSIIMINSETA
+A B D D
+R C S I
+I M I N
+S E T A
+
+Human player's turn:
+Type a word (or Enter to stop): DISCRIMINATE
+You found a new word! "DISCRIMINATE"
+Type a word (or Enter to stop): DISCRIMINATES
+You found a new word! "DISCRIMINATES"
+Type a word (or Enter to stop): SEISMIC
+You found a new word! "SEISMIC"
+Type a word (or Enter to stop): RACISM
+You found a new word! "RACISM"
+Type a word (or Enter to stop): CRIMINATE
+You found a new word! "CRIMINATE"
+Type a word (or Enter to stop): CRIMINAL
+Invalid word or not found on the board.
+Type a word (or Enter to stop): TANSIES
+You found a new word! "TANSIES"
+Type a word (or Enter to stop): 
+You found 6 total words.
+
+Computer player's turn:
+There were 134 total words:
+ABRI          ABRIS         ABSCISE       ACINI         ACME          
+ACMES         AIMS          AINS          ANIME         ANIMES        
+ANIMI         ANIMIS        ANIS          ANISIC        ANTE          
+ANTES         ANTI          ANTIC         ANTICS        ANTIS         
+ARBS          ARCS          ARISE         ARMET         ARMIES        
+ARMS          ATES          BARIC         BARM          BARMIE        
+BARMS         BRIE          BRIES         BRIM          BRIMS         
+BRIS          CABS          CARB          CARBS         CARIES        
+CITE          CITES         CRAB          CRABS         CRIES         
+CRIME         CRIMES        CRIMINATE     CRIMINATES    CRIS          
+DINS          DINT          DISBAR        DISC          DISCI         
+DISCRIMINATE  DISCRIMINATES DISME         DISMES        EMIC          
+EMIR          EMIT          ETIC          ETNA          INIA          
+INTI          INTIME        INTIS         ISBA          ISMS          
+ITEM          ITEMS         MESIC         META          METIS         
+MICA          MICRA         MIES          MINA          MINI          
+MINIS         MINT          MISDID        MISE          MITE          
+MITES         NATES         NATIES        NIES          NIMS          
+NISI          RACISM        RACISMS       RICIN         RICINS        
+RIES          RIME          RIMES         RIMS          RISE          
+SCAB          SCAR          SCRIM         SCRIMS        SEIS          
+SEISIN        SEISM         SEISMIC       SEMI          SEMINA        
+SEMIS         SETA          SICS          SIES          SIMIAN        
+SIMIANS       SIMS          SITE          SITES         SMIT          
+SMITE         SMITES        SNIT          TAIN          TAINS         
+TANS          TANSIES       TEIID         TEIIDS        TICS          
+TIES          TIME          TIMES         TINS          
+Have a nice day!

@@ -1,0 +1,42 @@
+Welcome to the CS 106B Maze Solver!
+Do you want animation? (Y/N) n
+Maze file name (blank for maze1.txt)? maze1.txt
+Reading maze ...
+   012345678901234
+ 0 XXXXXXXXXXXXXXX
+ 1 X X       X   X
+ 2 X   XXXXX XXX X
+ 3 X X X   X   X X
+ 4 X X X X XXX X X
+ 5 X XXXXX X X   X
+ 6 X X     X XXX X
+ 7 X X X X X   X X
+ 8 X X XXX XXX X X
+ 9 X X   X     X X
+10 X XXX XXXXX X X
+11 X   X     X   X
+12 X X XXXXX XXXXX
+13 X X     X     X
+14 XXXXXXX XXXXXXX
+
+Start row? 6
+Start col? 7
+   012345678901234
+ 0 XXXXXXXXXXXXXXX
+ 1 X X.......X   X
+ 2 X...XXXXX.XXX X
+ 3 X.X X   X...X X
+ 4 X.X X X XXX.X X
+ 5 X.XXXXX X X...X
+ 6 X.X    .X XXX.X
+ 7 X.X X X.X   X.X
+ 8 X.X XXX.XXX X.X
+ 9 X.X   X.....X.X
+10 X.XXX XXXXX.X.X
+11 X...X     X...X
+12 X X.XXXXX XXXXX
+13 X X.....X     X
+14 XXXXXXX.XXXXXXX
+You escaped!
+Try again? (Y/N) n
+Have a nice day.

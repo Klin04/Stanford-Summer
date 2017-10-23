@@ -1,0 +1,9 @@
+<Last>::=Li|Lin|Wang|Su|Zheng|Chen
+<action>::=kan(look at)|deng(wait)
+<Given>::=Lin|Shuo|Lu|Mei
+<Target>::=che(car)|dianying(movie)|ren(people)
+<time>::=qidian(7'o)|badian(8'o)|jiudian(9'o)
+<Name>::=<Last> <Given>
+<prep>::=zai(at)
+<description>::=<Name> <action> <Target>|<Name> <action> <Target> <prep> <time>
+<vPhrases>::=<action> <Target>|<action> <Target> <prep> <time>
