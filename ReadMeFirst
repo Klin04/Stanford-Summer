@@ -1,0 +1,9 @@
+This is basic my work at Stanford Summer.
+Now I am listing all the files written by me, which can be found in the "src" folder of each "hwX" folder. 
+For hw1, I wrote the part of Life.cpp but not the GUI provided.
+For hw2, I wrote the part of Ngrams.cpp and wordladder.cpp.
+For hw3, I wrote the recursionproblems.cpp.
+For hw4, I wrote Anagrams.cpp, Maze.cpp, and BoggleMini.cpp.
+For hw5, I wrote PriorityQueue.cpp and Tiles.cpp.
+For hw6, I wrote encoding.cpp.
+For hw7, I wrote trailblazer.cpp. 
